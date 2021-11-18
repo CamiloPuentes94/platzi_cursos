@@ -1,0 +1,4 @@
+Que es un modulo
+
+    Un modulo es cualquier archivo de python. Generalmente, contiene codigo que puedes reutilizar
+
