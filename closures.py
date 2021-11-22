@@ -11,6 +11,8 @@ def make_repeater_of(n):
 def run():
     repeat5 = make_repeater_of(5)
     print(repeat5("Hola"))
+    repeat_10 = make_repeater_of(10)
+    print(repeat_10("Platzi"))
 
 if __name__ == '__main__':
     run()
