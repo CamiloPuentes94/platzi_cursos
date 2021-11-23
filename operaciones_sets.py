@@ -6,3 +6,10 @@ print(my_set_union)
 
 my_set_intersectacion = my_set1 & my_set2 # con este operador podemos intersectar dos sets
 print(my_set_intersectacion)
+
+# Se ejecuta la diferencia entre los sets
+my_set_diferencia1 = my_set1 - my_set2
+print(my_set_diferencia1)
+
+my_set_diferencia2 = my_set2 - my_set1
+print(my_set_diferencia2)
